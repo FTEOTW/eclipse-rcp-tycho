@@ -9,3 +9,6 @@ Java HotSpot(TM) 64-Bit Server VM (build 17.0.10+11-LTS-240, mixed mode, sharing
 # eclipse-version (RCP - RAP)
 Version: 2024-03 (4.31.0)  
 Build id: 20240307-1437  
+
+# to run
+select the pom.xml file from the parent folder to execute the `mvn clean install`
